@@ -1,0 +1,18 @@
+{
+  "name": "test-jsii",
+  "version": "1.0.0",
+  "description": "A random test for jsii",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Guy Roberts",
+    "email": "guyroberts21@outlook.com"
+  },
+  "repository": {
+    "url": "https://github.com/guyroberts21/psychic-octo-waddle.git"
+  },
+  "license": "ISC"
+}
